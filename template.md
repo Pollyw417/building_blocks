@@ -36,3 +36,5 @@ ggplot(df_learn, aes(x=abs_v_value))+
     ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 
 ![](template_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+
+# Section 2

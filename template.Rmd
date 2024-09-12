@@ -23,3 +23,5 @@ ggplot(df_learn, aes(x=abs_v_value))+
   geom_histogram()
 ```
 
+# Section 2
+
