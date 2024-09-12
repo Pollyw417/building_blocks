@@ -1,5 +1,5 @@
 ---
-title: "Simple document"
+title: "Rmarkdown tryout"
 output: github_document
 ---
 
